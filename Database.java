@@ -6,7 +6,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-public class Program01 {
+public class Database {
 	public static void main(String[] args) {
 		try {
 			// load and register the Driver class towards JVM
