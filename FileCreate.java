@@ -12,7 +12,7 @@ public class FileCreate {
 		
 		File file = new File(src);
 		boolean sucess = file.createNewFile();
-		System.out.println("Sucess-------");
+		System.out.println("Success-------");
 	}
 
 }
